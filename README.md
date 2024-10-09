@@ -1,7 +1,5 @@
-### Detailed Technical Summary of the Project
-
-- **Project Title**: Autonomous Driving Application - Car and Object Detection.
-- **Objective**: Implement a car and object detection model using Deep Convolutional Neural Networks (CNNs) to detect cars and other objects in images.
+### Summary of the Project
+Implemented a car and object detection model using Deep Convolutional Neural Networks (CNNs) to detect cars and other objects in images.
 
 #### Algorithms and Techniques Used:
 - **Object Detection Model**: 
